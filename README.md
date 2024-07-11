@@ -1,1 +1,8 @@
 # React-Router-NavBar
+
+node -v
+npm -v
+npm install
+npm start
+npm run dev
+npm install react-router-dom
